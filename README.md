@@ -4,15 +4,44 @@ Engineer's student in computer science looking for a job to start career as a de
 
 # My Tech Skills
 
-![](files/icons/icons8-python.svg "Python")
-![](files/icons/icons8-django.svg "Django")
-![](files/icons/icons8-postgresql.svg "PostgreSQL")
-![](files/icons/icons8-redis.svg "Redis")
-![](files/icons/icons8-html.svg "HTML5")
-![](files/icons/icons8-css.svg "CSS")
-![](files/icons/icons8-docker.svg "Docker / Docker-compose")
-![](files/icons/icons8-git.svg "Git")
-![](files/icons/icons8-jira.svg "Jira")
+<div align=center>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/python.svg">
+        <img src="files/icons/python.svg" alt="" title="Django" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/django.svg">
+        <img src="files/icons/django.svg" alt="" title="Python" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/postgresql.svg">
+        <img src="files/icons/postgresql.svg" alt="" title="PostgreSQL" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/redis.svg">
+        <img src="files/icons/redis.svg" alt="" title="Redis" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/html.svg">
+        <img src="files/icons/html.svg" alt="" title="HTML5" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/css.svg">
+        <img src="files/icons/css.svg" alt="" title="CSS" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/docker.svg">
+        <img src="files/icons/docker.svg" alt="" title="Docker / Docker-compose" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/git.svg">
+        <img src="files/icons/git.svg" alt="" title="Git" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/vs-code.svg">
+        <img src="files/icons/vs-code.svg" alt="" title="VS Code" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/scrum.svg">
+        <img src="files/icons/scrum.svg" alt="" title="Scrum" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/jira.svg">
+        <img src="files/icons/jira.svg" alt="" title="Jira" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/pycharm.svg">
+        <img src="files/icons/pycharm.svg" alt="" title="PyCharm" style="max-width: 100%;" width="100px">
+    </a>
+</div>
 
 # My GitHub Statistics
 
