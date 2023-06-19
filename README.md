@@ -1,6 +1,6 @@
 # About Me
 
-Engineer's student in computer science looking for a job to start career as a developer. Passionate about programming web applications. Team player, hard worker, very communicative and ready to learn and grow.
+Master's student in computer science looking for a job to start career as a developer. Passionate about programming web applications. Team player, hard worker, very communicative and ready to learn and grow.
 
 # My Tech Skills
 
