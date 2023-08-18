@@ -6,10 +6,10 @@ Master's student in computer science looking for a job to start career as a deve
 
 <div align=center>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/python.svg">
-        <img src="files/icons/python.svg" alt="" title="Django" style="max-width: 100%;" width="100px">
+        <img src="files/icons/python.svg" alt="" title="Python" style="max-width: 100%;" width="100px">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/django.svg">
-        <img src="files/icons/django.svg" alt="" title="Python" style="max-width: 100%;" width="100px">
+        <img src="files/icons/django.svg" alt="" title="Django" style="max-width: 100%;" width="100px">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/postgresql.svg">
         <img src="files/icons/postgresql.svg" alt="" title="PostgreSQL" style="max-width: 100%;" width="100px">
@@ -22,6 +22,9 @@ Master's student in computer science looking for a job to start career as a deve
     </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/css.svg">
         <img src="files/icons/css.svg" alt="" title="CSS" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/celery.svg">
+        <img src="files/icons/celery.svg" alt="" title="CSS" style="max-width: 100%;" width="100px">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/docker.svg">
         <img src="files/icons/docker.svg" alt="" title="Docker / Docker-compose" style="max-width: 100%;" width="100px">
