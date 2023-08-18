@@ -23,11 +23,11 @@ Master's student in computer science looking for a job to start career as a deve
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/css.svg">
         <img src="files/icons/css.svg" alt="" title="CSS" style="max-width: 100%;" width="100px">
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/celery.svg">
-        <img src="files/icons/celery.svg" alt="" title="CSS" style="max-width: 100%;" width="100px">
-    </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/docker.svg">
         <img src="files/icons/docker.svg" alt="" title="Docker / Docker-compose" style="max-width: 100%;" width="100px">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/celery.svg">
+        <img src="files/icons/celery.svg" alt="" title="Celery" style="max-width: 100%;" width="100px">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/git.svg">
         <img src="files/icons/git.svg" alt="" title="Git" style="max-width: 100%;" width="100px">
