@@ -1,6 +1,6 @@
 # About Me
 
-Master's student in computer science looking for a job to start career as a developer. Passionate about programming web applications. Team player, hard worker, very communicative and ready to learn and grow.
+Graduated computer science engineer looking for a job to start career as a Python Backend Developer. Team player, hard worker, communicative, strive to develop my skills so that I can create more and more advanced applications.
 
 # My Tech Skills
 
