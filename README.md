@@ -1,6 +1,6 @@
 # About Me
 
-Graduated computer science engineer looking for a job to start career as a Python Backend Developer. Team player, hard worker, communicative, strive to develop my skills so that I can create more and more advanced applications.
+Computer Science graduate with a strong foundation, aspiring to pursue a career in web development. Adaptable and equipped with technical skills, particularly in Python and Django. Proficient in Git and Jira for effective project management. Committed to continuous learning and adaptable to new challenges.
 
 # My Tech Skills
 
@@ -17,6 +17,9 @@ Graduated computer science engineer looking for a job to start career as a Pytho
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/redis.svg">
         <img src="files/icons/redis.svg" alt="" title="Redis" style="max-width: 100%;" width="100px">
     </a>
+    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/pytest.png">
+        <img src="files/icons/pytest.png" alt="" title="pytest" style="max-width: 100%;" width="100px">
+    </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/html.svg">
         <img src="files/icons/html.svg" alt="" title="HTML5" style="max-width: 100%;" width="100px">
     </a>
@@ -31,18 +34,6 @@ Graduated computer science engineer looking for a job to start career as a Pytho
     </a>
     <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/git.svg">
         <img src="files/icons/git.svg" alt="" title="Git" style="max-width: 100%;" width="100px">
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/vs-code.svg">
-        <img src="files/icons/vs-code.svg" alt="" title="VS Code" style="max-width: 100%;" width="100px">
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/scrum.svg">
-        <img src="files/icons/scrum.svg" alt="" title="Scrum" style="max-width: 100%;" width="100px">
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/jira.svg">
-        <img src="files/icons/jira.svg" alt="" title="Jira" style="max-width: 100%;" width="100px">
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="/andreistr21/andreistr21/blob/main/files/icons/pycharm.svg">
-        <img src="files/icons/pycharm.svg" alt="" title="PyCharm" style="max-width: 100%;" width="100px">
     </a>
 </div>
 
